@@ -1,0 +1,37 @@
+{
+  "data": {
+    "items": [
+      {
+        "symbolInput": "FTSE:FSI",
+        "basic": {
+          "symbol": "FTSE:FSI",
+          "name": "FTSE 100 Index",
+          "exchange": "FTSE International",
+          "currency": "GBP"
+        },
+        "quote": {
+          "lastPrice": 10495.46,
+          "change1Day": 4.07,
+          "change1DayPercent": 0.0387,
+          "timeStamp": "2026-05-27T14:58:00"
+        }
+      },
+      {
+        "symbolInput": "EURUSD",
+        "basic": {
+          "symbol": "EURUSD",
+          "name": "Euro/US Dollar FX Spot Rate",
+          "exchange": "Reuters",
+          "currency": "USD"
+        },
+        "quote": {
+          "lastPrice": 1.1649,
+          "change1Day": 0.0019,
+          "change1DayPercent": 0.163,
+          "timeStamp": "2026-05-27T14:39:00"
+        }
+      }
+    ]
+  },
+  "timeGenerated": "2026-05-27T15:13:45"
+}

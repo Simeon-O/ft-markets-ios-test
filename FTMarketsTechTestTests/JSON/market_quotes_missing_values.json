@@ -1,0 +1,21 @@
+{
+  "data": {
+    "items": [
+      {
+        "symbolInput": "GBPUSD",
+        "basic": {
+          "symbol": "GBPUSD",
+          "name": "UK Pound Sterling/US Dollar FX Spot Rate",
+          "exchange": "Reuters"
+        },
+        "quote": {
+          "lastPrice": null,
+          "change1Day": null,
+          "change1DayPercent": null,
+          "timeStamp": "2026-05-27T14:40:00"
+        }
+      }
+    ]
+  },
+  "timeGenerated": "2026-05-27T15:13:45"
+}
