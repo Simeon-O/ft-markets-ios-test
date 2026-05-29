@@ -8,8 +8,7 @@
 import Foundation
 
 protocol UseCase {
-    associatedtype Output
-    func execute() async throws -> Output
+    func execute() async throws -> [MarketQuote]
 }
 
 final class GetMarketQuotesUseCase: UseCase {
